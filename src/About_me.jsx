@@ -26,7 +26,7 @@ const AboutMe = () => {
       className='about_me'  id="aboutMey">
       <h2 className='heading'>About Me</h2>
     <div className="about_me_info">
-        <p className='about_me_left'>Hello! I'm M.  Anurag, a budding Full Stack Developer and AI/ML enthusiast. I am diving into front-end and back-end technologies, as well as exploring AI and machine learning tools like TensorFlow and PyTorch. Excited to connect and collaborate on innovative projects!</p>
+     <center> <p className='about_me_left'>Hello! I'm M.  Anurag, Pre-final-year B.Tech student with a strong focus on Java Backend Development and experience building web applications using Java technologies. Proficient in Spring Boot, Spring MVC, Hibernate, JSP, and Servlets, with hands-on experience in developing backend services and database integration. Familiar with MySQL, PostgreSQL, Redis, Git, GitHub, Maven, Gradle, and Postman. Passionate about learning scalable backend systems and software engineering best practices.</p>  </center>
         <div className="about_me_right"></div>
     </div>
 

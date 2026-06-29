@@ -79,37 +79,41 @@ body{
 @keyframes typing {
     /* web developer */
     0%, 27.3488% { content: ""; }
-    1.667%, 48.2093% { content: "w"; }
-    3.334%, 46.0698% { content: "we"; }
-    5.001%, 44.9302% { content: "web"; }
-    6.668%, 42.7907% { content: "web "; }
-    8.335%, 40.6512% { content: "web d"; }
-    11.669%, 38.5116% { content: "web de"; }
-    13.336%, 36.3721% { content: "web dev"; }
-    15.003%, 34.2326% { content: "web deve"; }
-    16.670%, 32.0930% { content: "web devel"; }
-    19.3953%, 31.9535% { content: "web develo"; }
-    21.5349%, 29.8140% { content: "web develop"; }
-    23.6744%, 28.6744% { content: "web develope"; }
-    25.8140%, 26.5349% { content: "web developer"; }
+    1.667%, 48.2093% { content: "j"; }
+    3.334%, 46.0698% { content: "ja"; }
+    5.001%, 44.9302% { content: "jav"; }
+    6.668%, 42.7907% { content: "java"; }
+    8.335%, 40.6512% { content: "java d"; }
+    11.669%, 38.5116% { content: "java de"; }
+    13.336%, 36.3721% { content: "java dev"; }
+    15.003%, 34.2326% { content: "java deve"; }
+    16.670%, 32.0930% { content: "java devel"; }
+    19.3953%, 31.9535% { content: "java develo"; }
+    21.5349%, 29.8140% { content: "java develop"; }
+    23.6744%, 28.6744% { content: "java develope"; }
+    25.8140%, 26.5349% { content: "java developer"; }
   
     /* ai-ml developer */
     50.4186%, 99.9302% { content: ""; }
-    52.5581%, 98.7907% { content: "a"; }
-    54.6977%,  97.6512%{ content: "ai"; }
-    56.8372%,  96.5116%{ content: "ai-"; }
-    58.9767%,  95.3721%{ content: "ai-m"; }
-    60.1163%,  94.2326%{ content: "ai-ml"; }
-    62.2558%,  93.0930%{ content: "ai-ml "; }
-    64.3953%,  92.9535%{ content: "ai-ml d"; }
-    66.5349%,  91.2345%{ content: "ai-ml de"; }
-    68.6744%,  90.8140%{ content: "ai-ml dev"; }
-    70.8140%,  89.4943%{ content: "ai-ml deve"; }
-    72.9535%, 88.6744% { content: "ai-ml devel"; }
-    74.0930%, 86.5349% { content: "ai-ml develo"; }
-    76.2326%, 84.3953% { content: "ai-ml develop"; }
-    78.3721%, 82.2558% { content: "ai-ml develope"; }
-    78.5116%, 80.1163% { content: "ai-ml developer"; }
+    52.5581%, 98.7907% { content: "j"; }
+    54.6977%,  97.6512%{ content: "ja"; }
+    56.8372%,  96.5116%{ content: "jav"; }
+    58.9767%,  95.3721%{ content: "java"; }
+    60.1163%,  94.2326%{ content: "java b"; }
+    62.2558%,  93.0930%{ content: "java ba "; }
+    64.3953%,  92.9535%{ content: "java bac"; }
+    66.5349%,  91.2345%{ content: "java back"; }
+    68.6744%,  90.8140%{ content: "java backe"; }
+    70.8140%,  89.4943%{ content: "java backen"; }
+    72.9535%, 88.6744% { content: "java backend"; }
+    74.0930%, 86.5349% { content: "java backend d"; }
+    76.2326%, 84.3953% { content: "java backend de"; }
+    78.3721%, 82.2558% { content: "java backend dev"; }
+    78.5116%, 80.1163% { content: "java backend deve"; }
+    82.0930%, 78.9767% { content: "java backend devel"; }
+    84.2326%, 77.8372% { content: "java backend develo"; }
+    86.3721%, 76.6977% { content: "java backend develop"; }
+    92.6512%, 74.4186% { content: "java backend developer"; }
   }
   
 

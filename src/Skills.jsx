@@ -18,16 +18,12 @@ const Skills = () => {
       <div className="contents">
         <div className="flex">
           <SemiDonutChart percentage={70} fill="#03B0FD" txt="HTML"/>
-          <SemiDonutChart percentage={45} fill="#03B0FD" txt="CSS"/>
+          <SemiDonutChart percentage={50} fill="#03B0FD" txt="CSS"/>
           <SemiDonutChart percentage={50} fill="#03B0FD" txt="JavaScript"/>
         </div>
         <div className="flex">
           <SemiDonutChart percentage={70} fill="#03B0FD" txt="React JS"/>
-          <SemiDonutChart percentage={70} fill="#03B0FD" txt="C"/>
-          <SemiDonutChart percentage={60} fill="#03B0FD" txt="C++"/>
-        </div>
-        <div className="flex">
-          <SemiDonutChart percentage={65} fill="#03B0FD" txt="Python"/>
+          <SemiDonutChart percentage={85} fill="#03B0FD" txt="java"/>
         </div>
       </div>
 
@@ -37,15 +33,15 @@ const Skills = () => {
         transition={{ delay: 0.2, duration: 0.5 }}
         viewport={{ margin: "-100px", once: true }}
       >
-        <h3 className='heading3'>Libraries</h3>
+        <h3 className='heading3'>Web & Frameworks</h3>
         <div className="contents">
           <div className="flex">
-            <SemiDonutChart percentage={80} fill="#03B0FD" txt="HTML"/>
-            <SemiDonutChart percentage={60} fill="#03B0FD" txt="Numpy"/>
-            <SemiDonutChart percentage={50} fill="#03B0FD" txt="Pandas"/>
+            <SemiDonutChart percentage={80} fill="#03B0FD" txt="Spring"/>
+            <SemiDonutChart percentage={60} fill="#03B0FD" txt="Spring-boot"/>
+            <SemiDonutChart percentage={50} fill="#03B0FD" txt="Hibernate Orm"/>
           </div>
           <div className="flex">
-            <SemiDonutChart percentage={70} fill="#03B0FD" txt="Python"/>
+            <SemiDonutChart percentage={70} fill="#03B0FD" txt="jsp servlet"/>
           </div>
         </div>
       </motion.div>

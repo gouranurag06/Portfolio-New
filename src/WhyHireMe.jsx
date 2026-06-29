@@ -52,7 +52,7 @@ const WhyHireMe = () => {
                         </div>
                         <div className="box">
                             <img src={project} alt="" className='why_logo' />
-                            <h4 className='mid_text'>6+</h4>
+                            <h4 className='mid_text'>2+</h4>
                             <p className='main_text_why'>Completed Projects</p>
                         </div>
                     </div>
@@ -82,7 +82,7 @@ const WhyHireMe = () => {
                         </div>
                         <div className="box ">
                             <img src={leetcode} alt="" className='why_logo' />
-                            <h4 className='mid_text'>150</h4>
+                            <h4 className='mid_text'>70</h4>
                             <p className='main_text_why'>LeetCode Problems Solved</p>
                         </div>
                     </div>
