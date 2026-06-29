@@ -3,10 +3,6 @@ import Card from './Card';
 import exam from "./images/exam.png";
 import mar from "./images/mar.jpg";
 import heritage from "./images/heritage.jpg";
-import restaurant from"./images/ivan-stern-LOLSb7m6XkU-unsplash.jpg"
-import chess from"./images/chess.jpg"
-import snake from "./images/snake.jpg"
-import wise_way from"./images/wise_way.jpg"
 import { motion } from 'framer-motion';
 
 const Projects = () => {
